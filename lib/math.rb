@@ -1,7 +1,7 @@
 def addition(num1, num2)
   num1 = 5
   num2 = 4
-  sum = #{num2} + #{num1}
+  sum = 5 + 4
   sum 
 end
 
